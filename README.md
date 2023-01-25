@@ -1,2 +1,2 @@
-# HSE-s-Projects
+# HSE Projects
 My HSE's projects
